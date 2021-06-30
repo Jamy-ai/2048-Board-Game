@@ -13,6 +13,10 @@
 * Left Arrow Key -> Slide Left
 * Right Arrow Key -> Slide Right
 
+## Developmet
+* Developed logic using python
+* Programmed GUI using Pygame module
+
 ## Installation
 * Install pygame module on your device depending on your OS.Take help from this link [https://www.pygame.org/wiki/GettingStarted](url)
 * Download main2048.py and constants.py 
