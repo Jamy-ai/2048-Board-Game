@@ -1,4 +1,8 @@
 # 2048-Board-Game
+
+## Demo
+![2048BoardGame](https://user-images.githubusercontent.com/73168961/123961300-d29d9d80-d9cd-11eb-88dd-4adeff1023e9.gif)
+
 ## Introduction to 2048 Game
 * 2048 is a popular board game of numbers.
 * You have to slide the cells of the board to merge the cells having same values.
