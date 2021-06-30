@@ -12,6 +12,7 @@
 * If no cell of the board is empty and you are unable to take any move then you lose the game
 
 ## Controls
+* Press q -> Quit
 * Up Arrow Key -> Slide Up
 * Down Arrow Key -> Slide Down
 * Left Arrow Key -> Slide Left
