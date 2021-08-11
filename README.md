@@ -18,7 +18,7 @@
 * Left Arrow Key -> Slide Left
 * Right Arrow Key -> Slide Right
 
-## Developmet
+## Development
 * Developed logic using python
 * Programmed GUI using Pygame module
 
